@@ -1,0 +1,160 @@
+.welcoming-slider {
+    height: 516px;
+    width: 100%;
+}
+
+.welcoming-slider-img-part {
+    height: 441px;
+    width: 100%;
+    background: #f6f3ec no-repeat url(../assets/img/welcoming_slider/bg.png);
+    background-position: 473px;
+}
+
+.welcoming-slider-left-arrow {
+    background-color: #fefefd;
+    width: 31px;
+    height: 118px;
+    position: absolute;
+    margin-top: 164px;
+}
+
+.welcoming-slider-left-arrow>img {
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.welcoming-slider-right-arrow {
+    background-color: #fefefd;
+    width: 31px;
+    height: 118px;
+    position: absolute;
+    margin-left: 1171px;
+    margin-top: 164px;
+}
+
+.welcoming-slider-right-arrow>img {
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.welcoming-slider-prompt-text {
+    width: 342px;
+    height: 314px;
+    margin-left: 182px;
+    margin-top: 44px;
+    position: absolute;
+}
+
+.welcoming-slider-prompt-text-crazy {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 53px;
+}
+
+.welcoming-slider-prompt-text-crazy-left-line {
+    width: 75px;
+    height: 2px;
+    background-color: #78645d;
+}
+
+.welcoming-slider-prompt-text-crazy-crazy-text {
+    margin-top: -21px;
+}
+
+.welcoming-slider-prompt-text-crazy-crazy-text>span {
+    font-size: 35px;
+}
+
+.welcoming-slider-prompt-text-crazy-right-line {
+    width: 75px;
+    height: 2px;
+    background-color: #78645d;
+    margin-left: 3px;
+}
+
+.welcoming-slider-prompt-text-crazy-summer>img {
+    margin-top: -25px;
+}
+
+.welcoming-slider-prompt-text-divider {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.welcoming-slider-prompt-text-divider-divider1 {
+    width: 342px;
+    height: 5px;
+    background-color: #78645d;
+}
+
+.welcoming-slider-prompt-text-divider-divider2 {
+    width: 340px;
+    height: 2px;
+    background-color: #78645d;
+    margin: 0px auto;
+    margin-top: 2px;
+}
+
+.welcoming-slider-prompt-text-women-collection {
+    width: 281px;
+    height: 26px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.welcoming-slider-prompt-text-women-collection>span {
+    font-size: 25px;
+    display: inline-block;
+    margin-top: 13px;
+}
+
+.welcoming-slider-prompt-text-shopNow {
+    width: 157px;
+    height: 55px;
+    margin-top: 30px;
+    margin-left: 91px;
+    background-color: #fd926d;
+    display: flex;
+    cursor: pointer;
+}
+
+.welcoming-slider-prompt-text-shopNow>span {
+    color: #FFFFFF;
+    display: inline-block;
+    margin-top: 19px;
+    margin-left: 22px;
+    margin-right: 12px;
+}
+
+.welcoming-slider-prompt-text-shopNow>img {
+    display: block;
+    width: 5px;
+    height: 5px;
+    margin-top: 24px;
+    margin-left: 5px;
+}
+
+.welcoming-slider-dots-part {
+    width: 100%;
+    height: 74px;
+}
+
+.dots-container {
+    margin-left: 535px;
+    margin-top: 31px
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: #867a76;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 16px;
+}
+
+.choosen {
+    background-color: #fd926d;
+}

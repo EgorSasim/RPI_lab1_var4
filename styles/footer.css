@@ -1,0 +1,188 @@
+/*footer styles*/
+
+
+/*Light-gray-footer all styles*/
+
+footer .light-gray-footer {
+    width: 1200px;
+    height: 58px;
+    background: #f7f7f7;
+    display: flex;
+}
+
+footer .weaccept-style {
+    font-size: 12px;
+    margin-left: 319px;
+    margin-top: 22px;
+    color: #a19f9e;
+}
+
+footer .align-photo {
+    margin-left: 15px;
+    margin-top: 17px;
+}
+
+
+/*dark-gray-footer all styles*/
+
+.dark-gray-footer {
+    width: 1200px;
+    height: 197px;
+    background: #ededed;
+    display: flex;
+}
+
+
+/*left-part of dark-gray menu*/
+
+footer .menu-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 29px;
+    margin-left: 115px;
+}
+
+footer .colomn-menu-footer-second {
+    margin-left: 44px;
+}
+
+footer .colomn-menu-footer-third {
+    margin-left: 72px;
+}
+
+footer .colomn-menu-footer-fourth {
+    margin-left: 54px;
+}
+
+.information-in-b {
+    display: block;
+    margin-bottom: 13px;
+    font-size: 16px;
+    color: #544f4d;
+}
+
+.information-in-ul {
+    list-style-type: none;
+}
+
+.information-in-li {
+    font-size: 12px;
+    color: #544f4d;
+    margin-bottom: 4px;
+}
+
+
+/*right-part of dark-gray menu*/
+
+footer .right-part-of-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 29px;
+    margin-left: 64px;
+}
+
+.d1 {
+    width: 35px;
+    height: 35px;
+    background: #4c4c4b;
+    border-radius: 50%;
+}
+
+.circle-one-style {
+    margin-top: 16px;
+}
+
+.circle-two-style {
+    margin-left: 45px;
+    margin-top: -35px;
+}
+
+.circle-three-style {
+    margin-left: 90px;
+    margin-top: -35px;
+}
+
+.circle-four-style {
+    margin-top: 8px;
+}
+
+.circle-five-style {
+    margin-left: 46px;
+    margin-top: -35px;
+}
+
+.circle-six-style {
+    margin-left: 91px;
+    margin-top: -35px;
+}
+
+.logos {
+    margin-left: 10px;
+    margin-top: 11px;
+}
+
+.logos-facebook {
+    margin-left: 12px;
+    margin-top: 11px;
+}
+
+.logos-google {
+    margin-left: 9px;
+    margin-top: 11px;
+}
+
+.logos-tumblr {
+    margin-left: 12px;
+    margin-top: 11px;
+}
+
+.percent-photo {
+    margin-left: 61px;
+    margin-top: 18px;
+}
+
+
+/*black-footer all styles*/
+
+footer .black-footer {
+    width: 1200px;
+    height: 74px;
+    background: #000000;
+    color: #ededed;
+    display: flex;
+}
+
+footer .styles-black-footer {
+    font-size: 11px;
+    margin-left: 115px;
+    margin-top: 32px;
+    color: #a19f9a;
+}
+
+.parallel-stick {
+    margin-right: 9px;
+    border-right: 1px solid #a19f9a;
+    Padding-right: 9px;
+}
+
+footer .lookshop-footer {
+    font-size: 11px;
+    margin-left: 436px;
+    margin-top: 23px;
+    color: #a19f9a;
+}
+
+footer .link-in-main-page {
+    font-size: 11px;
+    margin-top: 23px;
+    margin-left: 3px;
+}
+
+footer .rights-footer {
+    font-size: 11px;
+    margin-left: -97px;
+    margin-top: 40px;
+    color: #a19f9a;
+}

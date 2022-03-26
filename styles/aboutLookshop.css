@@ -1,0 +1,25 @@
+.about-lookshop {
+    width: 100%;
+    height: 150px;
+    margin-top: 24px;
+    margin-bottom: -12px;
+}
+
+.about-lookshop-big-txt {
+    text-align: center;
+}
+
+.about-lookshop-big-txt>span {
+    font-size: 24px;
+}
+
+.about-lookshop-little-txt {
+    width: 971px;
+    text-align: center;
+    margin-left: 106px;
+    margin-top: 11px;
+}
+
+.about-lookshop-little-txt>span {
+    font-size: 14px;
+}

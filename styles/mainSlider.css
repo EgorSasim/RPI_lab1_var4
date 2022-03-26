@@ -1,0 +1,471 @@
+.main-slider {
+    height: 503px;
+    width: 100%;
+}
+
+.main-slider-control-panel {
+    height: 48px;
+    width: 100%;
+    display: flex;
+}
+
+.main-slider-control-panel-txt-part {
+    width: 500px;
+    height: 100%;
+    margin-left: 115px;
+    display: flex;
+    margin-right: 371px;
+}
+
+.main-slider-control-panel-txt-part>div>span {
+    color: black;
+    font-size: 15px;
+    display: inline-block;
+}
+
+.main-slider-control-panel-txt-part-hot {
+    background-color: #FD926D;
+    width: 135px;
+}
+
+.main-slider-control-panel-txt-part-hot>span {
+    margin-top: 15px;
+    margin-left: 19px;
+}
+
+.main-slider-control-panel-txt-part-design {
+    width: 135px;
+}
+
+.main-slider-control-panel-txt-part-design>span {
+    margin-top: 16px;
+    margin-left: 22px
+}
+
+.main-slider-control-panel-txt-part-featured {
+    width: 110px;
+}
+
+.main-slider-control-panel-txt-part-featured>span {
+    margin-top: 16px;
+    margin-left: 15px;
+}
+
+.main-slider-control-panel-txt-part-latest>span {
+    margin-top: 16px;
+    margin-left: 23px;
+}
+
+.main-slider-control-panel-arrow-part {
+    width: 96px;
+    height: 100%;
+    display: flex;
+}
+
+.main-slider-control-panel-arrow-part-left-arrow {
+    width: 48px;
+    height: 100%;
+    background-color: #f2f2f2;
+}
+
+.main-slider-control-panel-arrow-part-left-arrow>span {
+    display: inline-block;
+    font-size: 53px;
+    margin-top: -5px;
+    margin-left: 9px;
+    color: #979797;
+}
+
+.main-slider-control-panel-arrow-part-right-arrow {
+    width: 48px;
+    height: 100%;
+    background-color: #FD926D;
+}
+
+.main-slider-control-panel-arrow-part-right-arrow>span {
+    display: inline-block;
+    font-size: 53px;
+    margin-top: -5px;
+    margin-left: 9px;
+    color: #fff;
+}
+
+
+/* IMAGES PANEL */
+
+.main-slider-imgs-panel {
+    height: 455px;
+    width: 100%;
+    background-color: #FD926D;
+    display: flex;
+    overflow: hidden;
+}
+
+
+/* FIRST GIRL */
+
+.main-slider-imgs-panel-first-girl {
+    margin-top: 27px;
+    margin-right: 27px;
+}
+
+.main-slider-imgs-panel-first-girl>img {
+    height: 293px;
+    width: 86px;
+}
+
+.main-slider-imgs-panel-first-girl .main-slider-imgs-panel-girl-info {
+    width: 85px;
+    height: 106px;
+    background-color: #fff;
+    margin-top: -4px;
+}
+
+.main-slider-imgs-panel-first-girl .main-slider-imgs-panel-girl-info-brand-name>span {
+    font-size: 12px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 1px;
+}
+
+.main-slider-imgs-panel-first-girl .main-slider-imgs-panel-girl-info-add {
+    background-color: #FD926D;
+    width: 35px;
+    height: 32px;
+    margin-top: 37px;
+    margin-left: 0px;
+}
+
+.main-slider-imgs-panel-first-girl .main-slider-imgs-panel-girl-info-add>img {
+    margin-top: 10px;
+    margin-left: 12px;
+}
+
+
+/* MIDDLE GIRLS */
+
+
+/* SECOND GIRL */
+
+.main-slider-imgs-panel-sec-girl {
+    margin-top: 21px;
+    margin-right: 17px;
+}
+
+.main-slider-imgs-panel-sec-girl>img {
+    width: 232px;
+    height: 303px;
+}
+
+.main-slider-imgs-panel-sec-girl .main-slider-imgs-panel-girl-info {
+    margin-left: 2px;
+    width: 220px;
+    height: 102px;
+    margin-top: -5px;
+    background-color: #fff;
+}
+
+.main-slider-imgs-panel-sec-girl .main-slider-imgs-panel-girl-info-brand-name>span {
+    display: inline-block;
+    margin-top: 7px;
+    margin-left: 47px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.main-slider-imgs-panel-sec-girl .main-slider-imgs-panel-girl-info-price>span {
+    display: inline-block;
+    margin-top: -4px;
+    margin-left: 77px;
+    font-size: 22px;
+}
+
+.main-slider-imgs-panel-sec-girl .main-slider-imgs-panel-girl-info-add {
+    width: 120px;
+    height: 30px;
+    box-shadow: 0px 2px #DD6B44;
+    background-color: #FD926D;
+    margin-top: 6px;
+    margin-left: 50px;
+}
+
+.main-slider-imgs-panel-sec-girl .main-slider-imgs-panel-girl-info-add>span {
+    display: inline-block;
+    color: #fff;
+    margin-top: 9px;
+    margin-left: 11px;
+    font-size: 11px;
+}
+
+.main-slider-imgs-panel-sec-girl .main-slider-imgs-panel-girl-info-add>img {
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 13px;
+}
+
+
+/* third GIRL */
+
+.main-slider-imgs-panel-third-girl {
+    margin-top: 23px;
+    margin-right: 12px;
+}
+
+.main-slider-imgs-panel-third-girl .saleImg {
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    margin-top: 7px;
+    margin-left: 3px;
+}
+
+.main-slider-imgs-panel-third-girl>img {
+    width: 229px;
+    height: 297px;
+}
+
+.main-slider-imgs-panel-third-girl .main-slider-imgs-panel-girl-info {
+    margin-left: 3px;
+    width: 220px;
+    height: 104px;
+    margin-top: -4px;
+    background-color: #fff;
+}
+
+.main-slider-imgs-panel-third-girl .main-slider-imgs-panel-girl-info-brand-name>span {
+    display: inline-block;
+    margin-top: 9px;
+    margin-left: 79px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.main-slider-imgs-panel-third-girl .main-slider-imgs-panel-girl-info-price>span {
+    display: inline-block;
+    margin-top: -4px;
+    margin-left: 77px;
+    font-size: 22px;
+}
+
+.main-slider-imgs-panel-third-girl .main-slider-imgs-panel-girl-info-add {
+    width: 120px;
+    height: 30px;
+    box-shadow: 0px 2px #DD6B44;
+    background-color: #FD926D;
+    margin-top: 6px;
+    margin-left: 50px;
+}
+
+.main-slider-imgs-panel-third-girl .main-slider-imgs-panel-girl-info-add>span {
+    display: inline-block;
+    color: #fff;
+    margin-top: 9px;
+    margin-left: 11px;
+    font-size: 11px;
+}
+
+.main-slider-imgs-panel-third-girl .main-slider-imgs-panel-girl-info-add>img {
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 13px;
+}
+
+
+/* FOURTH GIRL */
+
+.main-slider-imgs-panel-fourth-girl {
+    margin-top: 21px;
+    margin-right: -22px;
+}
+
+.main-slider-imgs-panel-fourth-girl>img {
+    width: 317px;
+    height: 310px;
+    margin-left: -37px;
+}
+
+.main-slider-imgs-panel-fourth-girl .main-slider-imgs-panel-girl-info {
+    margin-left: 2px;
+    width: 241px;
+    height: 105px;
+    margin-top: -5px;
+    background-color: #fff;
+}
+
+.main-slider-imgs-panel-fourth-girl .main-slider-imgs-panel-girl-info-brand-name>span {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 82px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.main-slider-imgs-panel-fourth-girl .main-slider-imgs-panel-girl-info-price>span {
+    display: inline-block;
+    margin-top: -4px;
+    margin-left: 87px;
+    font-size: 22px;
+}
+
+.main-slider-imgs-panel-fourth-girl .main-slider-imgs-panel-girl-info-add {
+    width: 120px;
+    height: 30px;
+    box-shadow: 0px 2px #DD6B44;
+    background-color: #FD926D;
+    margin-top: 6px;
+    margin-left: 60px;
+}
+
+.main-slider-imgs-panel-fourth-girl .main-slider-imgs-panel-girl-info-add>span {
+    display: inline-block;
+    color: #fff;
+    margin-top: 9px;
+    margin-left: 11px;
+    font-size: 11px;
+}
+
+.main-slider-imgs-panel-fourth-girl .main-slider-imgs-panel-girl-info-add>img {
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 13px;
+}
+
+
+/* FIFTH GIRL */
+
+.main-slider-imgs-panel-fifth-girl {
+    margin-top: 21px;
+    margin-right: 12px;
+}
+
+.main-slider-imgs-panel-fifth-girl .saleImg {
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    margin-top: 9px;
+    margin-left: 4px;
+}
+
+.main-slider-imgs-panel-fifth-girl>img {
+    width: 234px;
+    height: 300px;
+}
+
+.main-slider-imgs-panel-fifth-girl .main-slider-imgs-panel-girl-info {
+    margin-left: 3px;
+    width: 220px;
+    height: 104px;
+    margin-top: -4px;
+    background-color: #fff;
+}
+
+.main-slider-imgs-panel-fifth-girl .main-slider-imgs-panel-girl-info-brand-name>span {
+    display: inline-block;
+    margin-top: 9px;
+    margin-left: 57px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.main-slider-imgs-panel-fifth-girl .main-slider-imgs-panel-girl-info-price>span {
+    display: inline-block;
+    margin-top: -4px;
+    margin-left: 77px;
+    font-size: 22px;
+}
+
+.main-slider-imgs-panel-fifth-girl .main-slider-imgs-panel-girl-info-add {
+    width: 120px;
+    height: 30px;
+    box-shadow: 0px 2px #DD6B44;
+    background-color: #FD926D;
+    margin-top: 6px;
+    margin-left: 50px;
+}
+
+.main-slider-imgs-panel-fifth-girl .main-slider-imgs-panel-girl-info-add>span {
+    display: inline-block;
+    color: #fff;
+    margin-top: 9px;
+    margin-left: 11px;
+    font-size: 11px;
+}
+
+.main-slider-imgs-panel-fifth-girl .main-slider-imgs-panel-girl-info-add>img {
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 13px;
+}
+
+
+/* SIXTH GIRL */
+
+.main-slider-imgs-panel-sixth-girl {
+    margin-top: 23px;
+    margin-right: 12px;
+}
+
+.main-slider-imgs-panel-sixth-girl .saleImg {
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    margin-top: 7px;
+    margin-left: 8px;
+}
+
+.main-slider-imgs-panel-sixth-girl>img {
+    width: 157px;
+    height: 368px;
+    margin-left: -64px;
+}
+
+.main-slider-imgs-panel-sixth-girl .main-slider-imgs-panel-girl-info {
+    margin-left: 8px;
+    width: 220px;
+    height: 104px;
+    margin-top: -74px;
+    background-color: #fff;
+}
+
+.main-slider-imgs-panel-sixth-girl .main-slider-imgs-panel-girl-info-brand-name>span {
+    display: inline-block;
+    margin-top: 9px;
+    margin-left: 69px;
+    margin-bottom: 32px;
+    font-size: 12px;
+}
+
+.main-slider-imgs-panel-sixth-girl .main-slider-imgs-panel-girl-info-price>span {
+    display: inline-block;
+    margin-top: -4px;
+    margin-left: 77px;
+    font-size: 22px;
+}
+
+.main-slider-imgs-panel-sixth-girl .main-slider-imgs-panel-girl-info-add {
+    width: 120px;
+    height: 30px;
+    box-shadow: 0px 2px #DD6B44;
+    background-color: #FD926D;
+    margin-top: 6px;
+    margin-left: 50px;
+}
+
+.main-slider-imgs-panel-sixth-girl .main-slider-imgs-panel-girl-info-add>span {
+    display: inline-block;
+    color: #fff;
+    margin-top: 9px;
+    margin-left: 11px;
+    font-size: 11px;
+}
+
+.main-slider-imgs-panel-sixth-girl .main-slider-imgs-panel-girl-info-add>img {
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 13px;
+}

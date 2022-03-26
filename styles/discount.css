@@ -1,0 +1,65 @@
+.discount--container {
+    height: 203px;
+    width: 100%;
+    display: flex;
+    margin-top: 27px;
+}
+
+.discount-left-line {
+    width: 391px;
+    height: 2px;
+    margin-left: 115px;
+    margin-top: 76px;
+    margin-right: 15px;
+    background-color: #D8D8D8;
+}
+
+.discount-right-line {
+    width: 391px;
+    height: 2px;
+    margin-left: 14px;
+    margin-top: 76px;
+    margin-right: 116px;
+    background-color: #D8D8D8;
+}
+
+.bigcircle {
+    width: 158px;
+    height: 158px;
+    background-image: url(../assets/img/clearance/BigCircle.png);
+}
+
+.littlecircle {
+    width: 142px;
+    height: 142px;
+    position: absolute;
+    margin: 8px 5px 5px 8px;
+    background-image: url(../assets/img/clearance/LittleCircle.png);
+}
+
+.clearance {
+    width: 73px;
+    height: 27px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.digit50 {
+    position: absolute;
+    width: 32px;
+    height: 60px;
+    margin-top: 35px;
+    margin-left: -65px;
+}
+
+.percents {
+    position: absolute;
+    margin-top: 35px;
+    margin-left: -35px;
+}
+
+.off {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: -35px;
+}

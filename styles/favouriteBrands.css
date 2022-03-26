@@ -1,0 +1,118 @@
+.favourite-bands {
+    width: 100%;
+    height: 110px;
+}
+
+.favourite-bands-top-part {
+    width: 100%;
+    display: flex;
+}
+
+.favourite-bands-top-part-left-line {
+    width: 505px;
+    height: 2px;
+    background-color: #D8D8D8;
+    margin-top: 8px;
+}
+
+.favourite-bands-top-part-center-txt>span {
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.favourite-bands-top-part-right-line {
+    margin-left: 20px;
+    margin-top: 8px;
+    width: 504px;
+    height: 2px;
+    background-color: #D8D8D8;
+}
+
+.favourite-bands-icons {
+    width: 100%;
+    display: flex;
+    height: 75px;
+    margin-bottom: 16px;
+}
+
+.favourite-bands-icons>div {
+    border: 1px solid white;
+}
+
+.favourite-bands-icons-addict {
+    width: 200px;
+}
+
+.favourite-bands-icons-addict>img {
+    margin-top: 24px;
+    margin-left: 110px;
+}
+
+.favourite-bands-icons-abandon-ship {
+    width: 139px;
+}
+
+.favourite-bands-icons-abandon-ship>img {
+    margin-top: 11px;
+    margin-left: 37px;
+}
+
+.favourite-bands-icons-adidas {
+    width: 60px;
+}
+
+.favourite-bands-icons-adidas>img {
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+.favourite-bands-icons-boy-london {
+    width: 110px;
+}
+
+.favourite-bands-icons-boy-london>img {
+    margin-top: 23px;
+    margin-left: 50px;
+}
+
+.favourite-bands-icons-converse {
+    width: 150px;
+}
+
+.favourite-bands-icons-converse>img {
+    margin-top: 34px;
+    margin-left: 39px;
+}
+
+.favourite-bands-icons-calvin-klein {
+    width: 150px;
+}
+
+.favourite-bands-icons-calvin-klein>img {
+    margin-top: 29px;
+    margin-left: 18px;
+}
+
+.favourite-bands-icons-edwin {
+    width: 120px;
+}
+
+.favourite-bands-icons-edwin>img {
+    margin-top: 29px;
+    margin-left: 7px;
+}
+
+.favourite-bands-icons-grenson {
+    width: 150px;
+}
+
+.favourite-bands-icons-grenson>img {
+    margin-top: 27px;
+    margin-left: 9px;
+}
+
+.favourite-bands-bottom-line {
+    width: 100%;
+    height: 2px;
+    background-color: #D8D8D8;
+}

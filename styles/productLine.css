@@ -1,0 +1,263 @@
+.product-line {
+    width: 100%;
+    height: 405px;
+    margin-top: -25px;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+
+/* FIRST GIRL */
+
+.product-line-imgs-panel-first-girl {
+    margin-top: -1px;
+    margin-left: 95px;
+}
+
+.product-line-imgs-panel-first-girl>img {
+    width: 243px;
+    height: 292px;
+}
+
+.product-line-imgs-panel-first-girl .product-line-imgs-panel-girl-info {
+    margin-left: 7px;
+    width: 220px;
+    height: 102px;
+    margin-top: -4px;
+    background-color: #fff;
+}
+
+.product-line-imgs-panel-first-girl .product-line-imgs-panel-girl-info-brand-name>span {
+    display: inline-block;
+    margin-top: 9px;
+    margin-left: 84px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.product-line-imgs-panel-first-girl .product-line-imgs-panel-girl-info-price>span {
+    display: inline-block;
+    margin-top: -4px;
+    margin-left: 90px;
+    font-size: 22px;
+}
+
+.product-line-imgs-panel-first-girl .product-line-imgs-panel-girl-info-add {
+    width: 120px;
+    height: 30px;
+    box-shadow: 0px 2px #DD6B44;
+    background-color: #FD926D;
+    margin-top: 7px;
+    margin-left: 63px;
+}
+
+.product-line-imgs-panel-first-girl .product-line-imgs-panel-girl-info-add>span {
+    display: inline-block;
+    color: #fff;
+    margin-top: 9px;
+    margin-left: 11px;
+    font-size: 11px;
+}
+
+.product-line-imgs-panel-first-girl .product-line-imgs-panel-girl-info-add>img {
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 13px;
+}
+
+
+/* second GIRL */
+
+.product-line-imgs-panel-second-girl {
+    margin-top: -4px;
+    margin-left: 23px;
+}
+
+.product-line-imgs-panel-second-girl .saleImg {
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    margin-top: 5px;
+    margin-left: 4px;
+}
+
+.product-line-imgs-panel-second-girl>img {
+    width: 229px;
+    height: 297px;
+}
+
+.product-line-imgs-panel-second-girl .product-line-imgs-panel-girl-info {
+    margin-left: 3px;
+    width: 220px;
+    height: 104px;
+    margin-top: -4px;
+    background-color: #fff;
+}
+
+.product-line-imgs-panel-second-girl .product-line-imgs-panel-girl-info-brand-name>span {
+    display: inline-block;
+    margin-top: 8px;
+    margin-left: 72px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.product-line-imgs-panel-second-girl .product-line-imgs-panel-girl-info-price>span {
+    display: inline-block;
+    margin-top: -4px;
+    margin-left: 77px;
+    font-size: 22px;
+}
+
+.product-line-imgs-panel-second-girl .product-line-imgs-panel-girl-info-add {
+    width: 120px;
+    height: 30px;
+    box-shadow: 0px 2px #DD6B44;
+    background-color: #FD926D;
+    margin-top: 6px;
+    margin-left: 50px;
+}
+
+.product-line-imgs-panel-second-girl .product-line-imgs-panel-girl-info-add>span {
+    display: inline-block;
+    color: #fff;
+    margin-top: 9px;
+    margin-left: 11px;
+    font-size: 11px;
+}
+
+.product-line-imgs-panel-second-girl .product-line-imgs-panel-girl-info-add>img {
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 13px;
+}
+
+
+/* THIRD GIRL */
+
+.product-line-imgs-panel-third-girl {
+    margin-top: -3px;
+    margin-left: -38px;
+}
+
+.product-line-imgs-panel-third-girl>img {
+    width: 362px;
+    height: 357px;
+}
+
+.product-line-imgs-panel-third-girl .product-line-imgs-panel-girl-info {
+    margin-left: 50px;
+    width: 220px;
+    height: 102px;
+    margin-top: -67px;
+    background-color: #fff;
+}
+
+.product-line-imgs-panel-third-girl .product-line-imgs-panel-girl-info-brand-name>span {
+    display: inline-block;
+    margin-top: 9px;
+    margin-left: 68px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.product-line-imgs-panel-third-girl .product-line-imgs-panel-girl-info-price>span {
+    display: inline-block;
+    margin-top: -4px;
+    margin-left: 90px;
+    font-size: 22px;
+}
+
+.product-line-imgs-panel-third-girl .product-line-imgs-panel-girl-info-add {
+    width: 120px;
+    height: 30px;
+    box-shadow: 0px 2px #DD6B44;
+    background-color: #FD926D;
+    margin-top: 7px;
+    margin-left: 63px;
+}
+
+.product-line-imgs-panel-third-girl .product-line-imgs-panel-girl-info-add>span {
+    display: inline-block;
+    color: #fff;
+    margin-top: 9px;
+    margin-left: 11px;
+    font-size: 11px;
+}
+
+.product-line-imgs-panel-third-girl .product-line-imgs-panel-girl-info-add>img {
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 13px;
+}
+
+
+/* fourth GIRL */
+
+.product-line-imgs-panel-fourth-girl {
+    margin-top: -1px;
+    margin-left: -53px;
+}
+
+.product-line-imgs-panel-fourth-girl .saleImg {
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    margin-top: 3px;
+    margin-left: 4px;
+}
+
+.product-line-imgs-panel-fourth-girl>img {
+    width: 224px;
+    height: 304px;
+}
+
+.product-line-imgs-panel-fourth-girl .product-line-imgs-panel-girl-info {
+    margin-left: -20px;
+    width: 220px;
+    height: 104px;
+    margin-top: -14px;
+    background-color: #fff;
+}
+
+.product-line-imgs-panel-fourth-girl .product-line-imgs-panel-girl-info-brand-name>span {
+    display: inline-block;
+    margin-top: 8px;
+    margin-left: 72px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.product-line-imgs-panel-fourth-girl .product-line-imgs-panel-girl-info-price>span {
+    display: inline-block;
+    margin-top: -4px;
+    margin-left: 116px;
+    font-size: 22px;
+}
+
+.product-line-imgs-panel-fourth-girl .product-line-imgs-panel-girl-info-add {
+    width: 120px;
+    height: 30px;
+    box-shadow: 0px 2px #DD6B44;
+    background-color: #FD926D;
+    margin-top: 6px;
+    margin-left: 74px;
+}
+
+.product-line-imgs-panel-fourth-girl .product-line-imgs-panel-girl-info-add>span {
+    display: inline-block;
+    color: #fff;
+    margin-top: 9px;
+    margin-left: 11px;
+    font-size: 11px;
+}
+
+.product-line-imgs-panel-fourth-girl .product-line-imgs-panel-girl-info-add>img {
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 13px;
+}
