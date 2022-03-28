@@ -275,6 +275,19 @@
 
 /* FOURTH GIRL */
 
+.shopIt {
+    margin-top: -321px;
+    margin-left: -4px;
+    width: 253px;
+    height: 428px;
+    position: absolute;
+}
+
+.shopIt>img {
+    height: 100%;
+    width: 100%;
+}
+
 .main-slider-imgs-panel-fourth-girl {
     margin-top: 21px;
     margin-right: -22px;
